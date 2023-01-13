@@ -33,3 +33,6 @@ contracts/**/Cargo.lock
 packages/**/Cargo.lock
 debug/**/Cargo.lock
 ci/**/Cargo.lock
+
+# Ignores local beaker state
+**/state.local.json
